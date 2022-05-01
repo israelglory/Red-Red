@@ -1,6 +1,6 @@
 # Complete Red & Red Group🔥 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![Twitter Follow](https://img.shields.io/twitter/follow/kheeng_splash?style=social)](https://twitter.com/kheeng_splash)
 
-A simple BLoC state management. The first page(home) will simply fetch 6 users from the internet using BLoC to fech the API. 
+A simple BLoC state management. The first page(home) will simply fetch 6 users from the internet using BLoC to fetch the API. 
 The second Screen which is +Add New User is used to add new user to the database Using a post request from a dummy API and once the data is added successfully it will display the Id and other information and a done button to return to the first page.
 
 Kindly check out the Light and dark Mode of the simple application
