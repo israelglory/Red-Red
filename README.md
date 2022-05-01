@@ -18,12 +18,12 @@ Star⭐ the repo if you like what you see😉.
 ## 📸 ScreenShots
 
 ## Dark
- <img src="ss/darkhome.png" width="400">  <img src="ss/darkUser.png" width="400">
- <img src="ss/darkUseradd.png" width="400">  <img src="ss/darkhome.png" width="400">
+ <img src="ss/darkhome.PNG" width="400">  <img src="ss/darkUser.PNG" width="400">
+ <img src="ss/darkUseradd.PNG" width="400">  <img src="ss/darkhome.PNG" width="400">
 
 ## Light
- <img src="ss/home.png" width="400">  <img src="ss/addUser.png" width="400">
- <img src="ss/UserAdded.png" width="400">  <img src="ss/home.png" width="400">
+ <img src="ss/home.PNG" width="400">  <img src="ss/addUser.PNG" width="400">
+ <img src="ss/UserAdded.PNG" width="400">  <img src="ss/home.PNG" width="400">
 
 
 
